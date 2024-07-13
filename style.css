@@ -1,0 +1,159 @@
+body {
+    margin: 0;
+    font-family: Tahoma;
+}
+/*estilos globais*/
+
+.espacamentoSecao  {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+
+}
+
+.paragrafo {
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+/* Fim */
+
+/* ===  1ª seção === */
+.secaoLogo {
+    background-color: #afddfd;
+
+}
+
+.imagemLogo {
+    width: 150px;
+
+}
+
+.alinharParagrafo {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    
+}
+
+.Link {
+    font-size: 18px;
+    color: #1d1d1d;
+    text-decoration: none;
+    border-bottom: solid 2px  #1d1d1d;
+    margin:0 10px 0;
+}
+
+/* ===  2ª seção === */
+
+.banner {
+    padding-top: 0;
+    margin-top: 50px;
+}
+
+span {
+    font-weight: bold;
+}
+
+/* ===  3ª seção === */
+
+h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.imagem {
+    width: 450px;
+}
+
+.texto-azul {
+    color: #1c81c0;
+    font-weight: bold;
+}
+
+/* ===  4ª seção === */
+
+.servicos, .contato {
+    background-color: #1c81c0;
+}
+
+h3 {
+color: #ffffff;
+font-size: 28px;
+line-height: 42px;
+}
+
+.paragrafo-servicos {
+    width: 700px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 42px;
+}
+
+.texto-amarelo {
+    color: #fff81b;
+}
+
+.lista-servicos {
+    width: 135px;
+    margin: 40px auto 40px;
+}
+
+.item-lista-servicos {
+    color:  #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font: 22px;
+}
+
+/* ===  6ª seção === */
+
+.contato {
+    background-color: #1c81c0;
+}
+
+.paragrafo-contato {
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.lista-contato {
+    width: 210px;
+    list-style: none;
+    margin: 40px auto 40px;
+}
+
+.item-lista-contato {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.link-contato  {
+    background-color: #ffffff;
+    color: #1c81c0;
+    padding: 2px 5px;
+    border-radius: 5px;
+
+}
+
+/* ===  Rodapé === */
+
+footer {
+    padding: 20px;
+    background-color: #1c81c0;
+    color: #ffffff;
+    text-align: center;
+}
