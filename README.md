@@ -4,4 +4,4 @@ Para o projeto em questão, utilizei as tecnologias **HTML e CSS**. Baseando-me 
 ### Print do projeto:
 ![image](https://github.com/user-attachments/assets/5e6cc05d-355f-4a50-a953-b566ffc0590e)
 
-Esse site foi ao ar utilizando o [GitHub Pages()]
+
